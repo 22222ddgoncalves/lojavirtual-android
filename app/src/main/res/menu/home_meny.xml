@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/profile" app:showAsAction="ifRoom" android:icon="@drawable/profile" android:title="profile"/>
+    <item android:id="@+id/shopping_list" app:showAsAction="ifRoom" android:icon="@mipmap/ic_launcher" android:title="shopping_list"/>
+    <item android:id="@+id/logout" android:title="Logout"/>
+</menu>
