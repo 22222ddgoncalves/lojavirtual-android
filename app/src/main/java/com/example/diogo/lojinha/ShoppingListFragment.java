@@ -129,7 +129,6 @@ public class ShoppingListFragment extends Fragment {
                     Bitmap bitmap = BitmapFactory.decodeStream(is);
 
                     ImageView vv;
-                    vv.setImageBitmap(bitmap);
 
 
                 }catch (IOException e){
